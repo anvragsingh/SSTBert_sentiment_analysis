@@ -154,8 +154,6 @@ python experiments/scripts/significance_test.py --results_dir results/
 - [ ] Real-time inference optimization
 
 
-
-
 ## 🙏 Acknowledgments
 
 - Stanford NLP Group for the SST dataset
